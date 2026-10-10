@@ -1,0 +1,11 @@
+advertisement-swim-1 = Surfs Up!
+advertisement-swim-2 = Totally Tubular Brah!
+advertisement-swim-3 = Can't beat the heat? Stay in the pool!
+advertisement-swim-4 = Swim on by!
+advertisement-swim-5 = Show some flammable skin!
+advertisement-swim-6 = NO RUNNING BY THE POOLSIDE!
+advertisement-swim-7 = *whistle.ogg*
+thankyou-swimvend-1 = Remember to wait 15 minutes after eating!
+thankyou-swimvend-2 = Go catch some gnarly waves brah!
+thankyou-swimvend-3 = Enjoy the pool!
+thankyou-swimvend-4 = Come back when your ready to towel off!
