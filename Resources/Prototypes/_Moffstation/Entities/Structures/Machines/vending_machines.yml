@@ -1,6 +1,6 @@
 - type: entity
   parent: VendingMachine
-  id: VendingMachineSwimsuits
+  id: MoffVendingMachineSwimsuits
   name: SwimVend
   description: A vending machine for swimsuits.
   components:
@@ -28,7 +28,7 @@
 
 - type: entity
   parent: VendingMachine
-  id: VendingMachineNanoTrasen
+  id: MoffVendingMachineNanoTrasen
   name: NanoVend
   description: A vending machine for all things Nanotrasen! Glory to Nanotrasen!
   components:

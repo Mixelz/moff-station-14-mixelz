@@ -14,7 +14,7 @@
       children:
       - id: VendingMachineChang
       - id: VendingMachineCigs
-      - id: VendingMachineNanoTrasen # Moff - Moff Exclusive Vending machine
+      - id: MoffVendingMachineNanoTrasen # Moff - Moff Exclusive Vending machine
       - id: VendingMachineCoffee
       - id: VendingMachineCola #Robust Sofdrinks
       - id: VendingMachineColaBlack #Robust Sofdrinks [Black]
@@ -47,8 +47,8 @@
     - id: VendingMachinePride
     - id: VendingMachineTheater
     # Moff Start - Moff Exclusive Vending machines
-    - id: VendingMachineSwimsuits
-    - id: VendingMachineNanoTrasen
+    - id: MoffVendingMachineSwimsuits
+    - id: MoffVendingMachineNanoTrasen
     # Moff End
 
 - type: entity
